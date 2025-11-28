@@ -221,7 +221,7 @@ export function AccountCard({ account }) {
                   ¿Eliminar cuenta?
                 </DrawerTitle>
                 <DrawerDescription className="text-white mt-2">
-                  Estás a punto de eliminar la cuenta <strong>"{name}"</strong>
+                  Estás a punto de eliminar la cuenta <strong>&quot;{name}&quot;</strong>
                 </DrawerDescription>
               </div>
               <DrawerClose asChild>
