@@ -1,2 +1,6 @@
 <h1>App Finaciera - Welth</h1>
 Welth es una plataforma integral de finanzas personales diseñada para simplificar la gestión de tu dinero y ayudarte a tomar el control de tus finanzas de manera inteligente y automatizada, sin importar tu nivel de experiencia financiera. Welth te empodera para organizar tus finanzas gestionando todas tus cuentas en un solo lugar y registrando fácilmente tus ingresos y gastos. Además, te permite entender tus patrones de gasto, recibiendo análisis claros y concisos sobre cómo estás gastando tu dinero, identificando áreas de oportunidad para ahorrar, y planificar tu futuro financiero estableciendo presupuestos personalizados y recibiendo recomendaciones inteligentes para alcanzar tus metas. Welth también te ayuda a ahorrar tiempo y esfuerzo, automatizando tareas tediosas como el registro de recibos y el seguimiento de transacciones recurrentes. Entre sus características principales se encuentran la gestión de cuentas, el registro de ingresos y gastos, el escaneo inteligente de recibos, los presupuestos personalizados, los informes y análisis generados por IA y una interfaz intuitiva.
+<br><br>
+<img src="https://raw.githubusercontent.com/daniloalvarado/App-Financiera/public/project-W2.png" 
+alt="App-Fianciera">
+
